@@ -18,4 +18,4 @@ The following slide deck walks you through the basics of learning about ArcGIS P
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_Esv8e3jZsNJ6xF51zlN-SffJHwLSZNAOE1n6ncyRYkeNyYlDPzmqLo7gkqr1vA/embed?start=false&loop=false&delayms=3000" webkitallowfullscreen="true" width="960"></iframe>
 
-Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+**Technique:** [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
